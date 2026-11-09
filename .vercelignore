@@ -1,0 +1,7 @@
+# Laddas aldrig upp till Vercel. Hemligheter läggs in som miljövariabler i stället.
+.env
+.env.*
+!.env.example
+.neon
+node_modules
+.next
